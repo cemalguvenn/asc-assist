@@ -1,0 +1,13 @@
+# Private app preparation artifacts and credentials do not belong in this repo.
+.asc-assist/
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.pfx
+*.mobileprovision
+*service-account*.json
+*serviceAccount*.json
+.DS_Store
+__pycache__/
